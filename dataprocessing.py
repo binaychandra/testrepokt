@@ -14,6 +14,7 @@ mean_age = df['Age'].mean()
 mean_score = df['Score'].mean()
 
 print("Sample Data:")
+print("This is sample data display")
 print(df)
 print(f"\nMean Age: {mean_age}")
 print(f"Mean Score: {mean_score}")
